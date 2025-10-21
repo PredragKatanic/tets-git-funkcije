@@ -2,3 +2,5 @@
 Tetsiranje git funkcionalnosti
 
 ## testiranje fukcije push
+
+## test graficki push
